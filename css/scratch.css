@@ -1,0 +1,38 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0ceca;
+    color: #ad230b;
+    margin: 0;
+    padding: 0;
+    margin: 10px;
+   
+}
+
+/* Header styling */
+head {
+    background-color: #d4990e;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Link styling */
+img {
+    display: block;
+    margin: 20px auto; color: #1a1818;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border: #ad230b solid 5px;
+
+}
+/* iFrame styling */
+iframe {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #ad230b;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
